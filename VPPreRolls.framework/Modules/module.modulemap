@@ -1,0 +1,6 @@
+framework module VPPreRolls {
+  umbrella header "VPPreRolls.h"
+
+  export *
+  module * { export * }
+}
